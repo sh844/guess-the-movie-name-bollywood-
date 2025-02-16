@@ -1,0 +1,22 @@
+html{
+  background-color: black;
+}
+
+input{
+  border-radius: 96px;
+  width: 34px;
+  height: 34px;
+  text-align: center;
+  
+}
+
+button{
+  padding: 10px;
+  margin: 4px;
+}
+
+button:active{
+  transform: translateY(4px);
+  background-color: aqua;
+}
+
